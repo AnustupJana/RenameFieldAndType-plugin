@@ -74,7 +74,7 @@ The plugin is designed to streamline attribute table management and improve data
 Clone the repository:
 
 ```bash
-git clone https://github.com/AnustupJana/RenameFieldAndType.git
+git clone https://github.com/AnustupJana/RenameFieldAndType-plugin.git
 ```
 
 Copy the plugin folder to:
@@ -203,7 +203,7 @@ Text (String)
 
 **Version:** 1.0
 
-**Started:** June 2025
+**Started:** June 2026
 
 **License:** GNU General Public License v2.0 or later
 
@@ -223,7 +223,7 @@ Found a bug or have a feature request?
 
 Please create an issue on GitHub:
 
-https://github.com/AnustupJana/RenameFieldAndType/issues
+https://github.com/AnustupJana/RenameFieldAndType-plugin/issues
 
 For direct queries:
 
@@ -235,4 +235,4 @@ For direct queries:
 
 This plugin is licensed under the **GNU General Public License v2.0 or later**.
 
-See the LICENSE file for more information.
+See the [LICENSE](https://github.com/AnustupJana/RenameFieldAndType-plugin/blob/main/LICENSE) file for more information.
