@@ -1,6 +1,6 @@
 # Rename Field and Type QGIS Plugin
 
-![Plugin Icon](https://github.com/AnustupJana/RenameFieldAndType/blob/main/icon.png?raw=true)
+![Plugin Icon](https://github.com/AnustupJana/RenameFieldAndType-plugin/blob/main/doc/icon.png?raw=true)
 
 ## Overview
 
@@ -49,7 +49,7 @@ The plugin is designed to streamline attribute table management and improve data
 
   `Plugins > Manage and Install Plugins`
 
-![Plugin Manager](https://github.com/AnustupJana/RenameFieldAndType/blob/main/doc/1st.png?raw=true)
+![Plugin Manager](https://github.com/AnustupJana/RenameFieldAndType-plugin/blob/main/doc/1st.png?raw=true)
 
 * Search for:
 
@@ -115,7 +115,7 @@ After installation, the plugin icon will appear in the QGIS toolbar and Plugins 
 
 Click the **Rename Field and Type** icon from the toolbar.
 
-![Plugin Interface](https://github.com/AnustupJana/RenameFieldAndType/blob/main/doc/2nd.png?raw=true)
+![Plugin Interface](https://github.com/AnustupJana/RenameFieldAndType-plugin/blob/main/doc/2nd.png?raw=true)
 
 ### 2. Select Layer
 
@@ -157,7 +157,7 @@ The plugin will:
 4. Remove the original field.
 5. Save the changes to the layer.
 
-![Result Example](https://github.com/AnustupJana/RenameFieldAndType/blob/main/doc/3rd.png?raw=true)
+![Result Example](https://github.com/AnustupJana/RenameFieldAndType-plugin/blob/main/doc/3rd.png?raw=true)
 
 ---
 
